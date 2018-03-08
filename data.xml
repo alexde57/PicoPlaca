@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<data>
+<picoplaca>
+    <day>Monday</day>
+    <daynumber>1</daynumber>
+    <lastdigit>1</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Monday</day>
+    <daynumber>1</daynumber>
+    <lastdigit>1</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Monday</day>
+    <daynumber>1</daynumber>
+    <lastdigit>2</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Monday</day>
+    <daynumber>1</daynumber>
+    <lastdigit>2</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Tuesday</day>
+    <daynumber>2</daynumber>
+    <lastdigit>3</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Tuesday</day>
+    <daynumber>2</daynumber>
+    <lastdigit>3</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Tuesday</day>
+    <daynumber>2</daynumber>
+    <lastdigit>4</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Tuesday</day>
+    <daynumber>2</daynumber>
+    <lastdigit>4</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Wednesday</day>
+    <daynumber>3</daynumber>
+    <lastdigit>5</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Wednesday</day>
+    <daynumber>3</daynumber>
+    <lastdigit>5</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Wednesday</day>
+    <daynumber>3</daynumber>
+    <lastdigit>6</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Wednesday</day>
+    <daynumber>3</daynumber>
+    <lastdigit>6</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Thursday</day>
+    <daynumber>4</daynumber>
+    <lastdigit>7</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Thursday</day>
+    <daynumber>4</daynumber>
+    <lastdigit>7</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Thursday</day>
+    <daynumber>4</daynumber>
+    <lastdigit>8</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Thursday</day>
+    <daynumber>4</daynumber>
+    <lastdigit>8</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Friday</day>
+    <daynumber>5</daynumber>
+    <lastdigit>9</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Friday</day>
+    <daynumber>5</daynumber>
+    <lastdigit>9</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Friday</day>
+    <daynumber>5</daynumber>
+    <lastdigit>0</lastdigit>
+    <time_start>07:00</time_start>
+    <time_end>09:30</time_end>
+</picoplaca>
+<picoplaca>
+    <day>Friday</day>
+    <daynumber>5</daynumber>
+    <lastdigit>0</lastdigit>
+    <time_start>16:00</time_start>
+    <time_end>19:30</time_end>
+</picoplaca>
+</data>
